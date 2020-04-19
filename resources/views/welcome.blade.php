@@ -97,9 +97,6 @@
             </div>
         </div>
 
-
-       <!--  <script src="https://cdn.jsdelivr.net/npm/laravel-echo@1.7.0/dist/echo.common.min.js"></script> -->
-       <!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/pusher/5.0.2/pusher.js"></script> -->
         <script src="{{ asset('js/app.js') }}"></script>
         
         <script>
